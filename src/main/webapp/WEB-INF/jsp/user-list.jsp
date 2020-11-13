@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>all persons!</title>
+    <title>Users</title>
 </head>
 <body>
 <div class="information">
