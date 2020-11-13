@@ -8,7 +8,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Update user: </title>
+    <title>Update user</title>
 </head>
 <body>
 <div>

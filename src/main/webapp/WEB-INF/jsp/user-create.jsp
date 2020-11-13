@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>all persons!</title>
+    <title>Create user</title>
 </head>
 <body>
 <div class="add-p">
